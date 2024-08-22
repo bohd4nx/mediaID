@@ -4,9 +4,9 @@ This telegram bot helps users get the ID of a sticker, GIF or document in Telegr
 
 <h3 align="center">
 🔹
-<a href="https://github.com/bohd4nx/Telegram-Video-Bot/issues">Report Bug</a> &nbsp; &nbsp;
+<a href="https://github.com/bohd4nx/mediaID/issues">Report Bug</a> &nbsp; &nbsp;
 🔹
-<a href="https://github.com/bohd4nx/Telegram-Video-Bot/issues">Request Feature</a>
+<a href="https://github.com/bohd4nx/mediaID/issues">Request Feature</a>
 </h3>
 
 ---
@@ -31,7 +31,7 @@ This telegram bot helps users get the ID of a sticker, GIF or document in Telegr
 - **/start**: Start the bot and get an introduction message with available commands.
 - **/help**: Get instructions on how to use the bot.
 - **/donate**: Support the bot creator via donation links.
-- **/dbe**: Get information about users and more (admin only).
+- **/db**: Get information about users and more (admin only).
 
 ### Installation👨‍💻Installation:
 
@@ -63,12 +63,17 @@ To set up this bot, follow these steps:
   <summary><b>👾 How bot works</b></summary>
 
 
+https://github.com/user-attachments/assets/0e325bc9-8ac7-41ed-a35a-64d4c8c7f072
+
 
 </details>
 
 <details>
   <summary><b>🗃️ Database</b></summary>
-
+    
+![image](https://github.com/user-attachments/assets/f51bfb05-62d3-4049-97ed-5bd15e57dc50)
+![image](https://github.com/user-attachments/assets/93dfce9f-0f69-47bc-ad9e-c9d5304088c9)
+![image](https://github.com/user-attachments/assets/6c035dac-701a-4731-a034-7ef4908846c7)
 
 
 </details>
