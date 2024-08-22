@@ -21,7 +21,7 @@ async def start(message: types.Message):
 
     caption = (
         "👾 This bot will help you get Telegram sticker or GIF ID, just send it to me!\n\n"
-        "🤖 Source: [GitHub Repository](https://github.com/bohd4nx/)\n\n"
+        "🤖 Source: [GitHub Repository](https://github.com/bohd4nx/mediaID)\n\n"
         "*Available Commands:*\n"
         "/start - Start bot.\n"
         # "/about - Learn more about me.\n"
