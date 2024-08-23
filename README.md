@@ -40,7 +40,7 @@ To set up this bot, follow these steps:
 1. **Clone the Repository**:
 
     ```
-    git clone https://github.com/bohd4nx/mediaID-bot.git
+    git clone https://github.com/bohd4nx/mediaID.git
     ```
    
 2. **Install the required dependencies**:
